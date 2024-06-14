@@ -1,3 +1,8 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+
+.image-gallery-height{
+    height: calc(100svh - 112px);
+}
