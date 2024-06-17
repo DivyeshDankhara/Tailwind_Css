@@ -25,3 +25,14 @@
 .pqr{
     font-family: "Tiny5", sans-serif;
 }
+
+.card1{
+    button{
+        color: white;
+        padding: 4px 14px;
+        background-color: blue;
+        border-radius: 100px;
+        font-weight: 700;
+        font-size: 12px;
+    }
+}
